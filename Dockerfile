@@ -1,4 +1,4 @@
-FROM amd64/ubuntu:focal
+FROM amd64/ubuntu:latest
 
 LABEL maintainer="lenny.consuegra@camptocamp.com"
 
