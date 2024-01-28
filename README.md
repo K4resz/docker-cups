@@ -1,6 +1,6 @@
 # docker cups
 
-A ready to use CUPS server packaged inside a focal Ubuntu
+A ready to use CUPS server packaged inside latest Ubuntu x86_64
 
 ## Usage
 
