@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM amd64/ubuntu:focal
 
 LABEL maintainer="lenny.consuegra@camptocamp.com"
 
